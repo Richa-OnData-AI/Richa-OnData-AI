@@ -28,6 +28,7 @@ Data Scientist | Data Analyst | Freelancer
 ---
 
 ## 🛠️ Skills
+
 <table align="center">
 <tr>
 <td align="center">
@@ -63,6 +64,7 @@ Data Scientist | Data Analyst | Freelancer
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🔥 Featured Projects
@@ -128,7 +130,7 @@ Data Scientist | Data Analyst | Freelancer
 
 ## 🌐 Connect With Me
 
-<table width="300%">
+<table width="100%">
 <tr>
 <td align="center">
 <a href="https://www.linkedin.com/in/richa-rani-201153334">
@@ -155,6 +157,7 @@ Data Scientist | Data Analyst | Freelancer
 </td>
 </tr>
 </table>
+
 ---
 
 ⭐ From [Richa-OnData-AI](https://github.com/Richa-OnData-AI)
