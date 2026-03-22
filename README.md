@@ -13,8 +13,7 @@
 
 ---
 
-## 🚀 About Me
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8E9EB&height=60&section=header&text=🚀%20About%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8E9EB&height=60&section=header&text=%20About%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 💡 Data Scientist & Analyst who loves solving real-world problems with data  
 
 - 🤖 Skilled in **Machine Learning & Deep Learning**  
@@ -24,8 +23,7 @@
 
 ---
 
-## 🛠️ Skills
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8E9EB&height=60&section=header&text=%20Skills&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 <table align="center">
 <tr>
 <td align="center">
