@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CB94F7,100:663399&height=200&section=header&text=Hi%20👋,%20I'm%20Richa%20Rani&fontSize=40&fontColor=#FDFEFF&animation=fadeIn"/>
 </p>
 
-<h2 align="center">
-  🚀 Data Scientist | Data Analyst | Freelancer
-</h2>
+<h1 align="center">
+  Data Scientist | Data Analyst | Freelancer
+</h1>
 <br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=I+Don’t+Just+Analyze+Data+—+I+Make+It+Useful&center=true&width=900&height=50&color=0A1F44&size=26&font=Fira+Code&pause=2000">
