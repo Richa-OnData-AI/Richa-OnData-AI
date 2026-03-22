@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Richa Rani</h1>
-
-<h3 align="center">🚀 Data Scientist | Data Analyst | Freelancer</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Data+Analyst;Freelancer;Python+%7C+SQL+%7C+ML+%7C+DL;Turning+Data+into+Actionable+Insights&center=true&width=800&height=80&color=001F3F&size=32&font=Montserrat&pause=1000">
 </p>
