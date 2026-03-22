@@ -81,7 +81,7 @@
 
 ---
 
-### 🌍 Air Quality Analysis (Industry-Level)  
+### 🌍 Air Quality Analysis  
 🔗 **[View Project](https://github.com/Richa-OnData-AI/your-air-quality-repo)**  
 
 <p align="left">
