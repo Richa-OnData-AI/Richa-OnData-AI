@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<b style="font-size:28px; color:#0A1F44;">
+<b style="font-size:40px; color:#0A1F44;">
 Data Scientist | Data Analyst | Freelancer
 </b>
 
