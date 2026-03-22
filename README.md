@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Data Scientist | Data Analyst | Freelancer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Data+Analyst;Freelancer;Python+%7C+SQL+%7C+ML+%7C+DL;Turning+Data+into+Actionable+Insights&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Data+Analyst;Freelancer;Python+%7C+SQL+%7C+ML+%7C+DL;Turning+Data+into+Actionable+Insights&center=true&width=800&height=80&color=001F3F&size=32&font=Montserrat&pause=1000">
 </p>
 
 ---
@@ -40,27 +40,29 @@
 ## 🔥 Featured Projects
 
 ### 🛒 E-commerce Data Analysis  
-🔗 **[View Project](https://github.com/Richa-OnData-AI/ecommerce-project)**  
+🔗 **[View Project](https://github.com/Richa-OnData-AI/your-ecommerce-repo)**  
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=E-commerce+Analytics+Dashboard" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="25"/> Python &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="25"/> SQL &nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/power-bi.png" height="25"/> Power BI
 </p>
 
 ✨ Customer segmentation  
 ✨ Sales trend analysis  
-✨ Built with **Python + SQL + Power BI**  
+✨ Business insights & KPI tracking  
 
 ---
 
 ### 🌍 Air Quality Analysis (Industry-Level)  
-🔗 **[View Project](https://github.com/Richa-OnData-AI/air-quality-analysis)**  
+🔗 **[View Project](https://github.com/Richa-OnData-AI/your-air-quality-repo)**  
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x300.png?text=Air+Quality+Analytics" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" height="25"/> MySQL
 </p>
 
 ✨ Real-world environmental dataset  
-✨ Built using **MySQL**  
+✨ Data cleaning & transformation  
 ✨ Extracted actionable insights  
 
 ---
