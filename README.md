@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Data+Analyst;Freelancer;Python+%7C+SQL+%7C+ML+%7C+DL;Turning+Data+into+Actionable+Insights&center=true&width=650&height=45">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Richa-OnData-AI&color=blue&style=flat-square" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -27,9 +23,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python" height="40"/> Python &nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/> Jupyter Notebook  
+
 <br><br>
-<img src="https://skillicons.dev/icons?i=github" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40"/> Colab &nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/> Power BI &nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/> Excel  
 
 </p>
 
@@ -37,7 +39,9 @@
 
 ## 🔥 Featured Projects
 
-### 🛒 E-commerce Data Analysis
+### 🛒 E-commerce Data Analysis  
+🔗 **[View Project](https://github.com/Richa-OnData-AI/ecommerce-project)**  
+
 <p align="center">
   <img src="https://via.placeholder.com/800x300.png?text=E-commerce+Analytics+Dashboard" />
 </p>
@@ -48,7 +52,9 @@
 
 ---
 
-### 🌍 Air Quality Analysis (Industry-Level)
+### 🌍 Air Quality Analysis (Industry-Level)  
+🔗 **[View Project](https://github.com/Richa-OnData-AI/air-quality-analysis)**  
+
 <p align="center">
   <img src="https://via.placeholder.com/800x300.png?text=Air+Quality+Analytics" />
 </p>
@@ -63,7 +69,7 @@
 
 🧠 I break down complex Machine Learning concepts into simple explanations  
 
-👉 Read on Medium: (https://medium.com/@richa.insights)
+👉 **[Read on Medium](https://medium.com/@richa.insights)**  
 
 ---
 
@@ -78,23 +84,11 @@
 
 📩 **Available for freelance work & collaborations**
 
-👉 Let’s connect on LinkedIn!
+👉 **[Connect on LinkedIn](https://www.linkedin.com/in/richa-rani-201153334)**  
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Richa-OnData-AI&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Richa-OnData-AI&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake (Elite Feature)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Richa-OnData-AI/Richa-OnData-AI/output/snake.svg" alt="snake animation" />
@@ -105,16 +99,16 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="(www.linkedin.com/in/richa-rani-201153334)">
+  <a href="https://www.linkedin.com/in/richa-rani-201153334">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
   </a>
-  <a href="(https://medium.com/@richa.insights)">
+  <a href="https://medium.com/@richa.insights">
     <img src="https://img.shields.io/badge/Medium-black?logo=medium" />
   </a>
-  <a href="(https://stackoverflow.com/users/28990535/richa-data-ai-explorer)">
+  <a href="https://stackoverflow.com/users/28990535/richa-data-ai-explorer">
     <img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow" />
   </a>
-  <a href="(https://www.quora.com/profile/Richa-Rani-216)">
+  <a href="https://www.quora.com/profile/Richa-Rani-216">
     <img src="https://img.shields.io/badge/Quora-red?logo=quora" />
   </a>
 </p>
