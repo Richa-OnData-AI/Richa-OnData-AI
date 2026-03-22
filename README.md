@@ -5,7 +5,7 @@
 <p align="center">
 
 <b style="font-size:80px; color:#0A1F44;">
-Data Scientist | Data Analyst | Freelancer
+Data Scientist | Data Analyst | Freelancer&fontSize=40
 </b>
 
 <br><br>
