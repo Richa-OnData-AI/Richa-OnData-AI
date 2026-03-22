@@ -18,46 +18,16 @@
 
 ## 🛠️ Skills
 
-<p align="center">
-
-<span>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <b style="font-size:18px; vertical-align: middle;"> Python</b>
-</span>
-&nbsp;&nbsp;&nbsp;
-
-<span>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <b style="font-size:18px; vertical-align: middle;"> MySQL</b>
-</span>
-&nbsp;&nbsp;&nbsp;
-
-<span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
-  <b style="font-size:18px; vertical-align: middle;"> Jupyter Notebook</b>
-</span>
-
-<br><br>
-
-<span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40"/>
-  <b style="font-size:18px; vertical-align: middle;"> Colab</b>
-</span>
-&nbsp;&nbsp;&nbsp;
-
-<span>
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
-  <b style="font-size:18px; vertical-align: middle;"> Power BI</b>
-</span>
-&nbsp;&nbsp;&nbsp;
-
-<span>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
-  <b style="font-size:18px; vertical-align: middle;"> Excel</b>
-</span>
-
-</p>
-
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" height="40"/><br><b>Python</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br><b>MySQL</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/><br><b>Jupyter</b></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40"/><br><b>Colab</b></td>
+<td align="center"><img src="https://img.icons8.com/color/48/power-bi.png" height="40"/><br><b>Power BI</b></td>
+<td align="center"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/><br><b>Excel</b></td>
+</tr>
+</table>
 ---
 
 ## 🔥 Featured Projects
@@ -125,7 +95,7 @@
 
 <table width="100%">
 <tr>
-<td align="left">
+<td align="center">
 <a href="https://www.linkedin.com/in/richa-rani-201153334">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -143,14 +113,13 @@
 </a>
 </td>
 
-<td align="right">
+<td align="center">
 <a href="https://www.quora.com/profile/Richa-Rani-216">
 <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
 </a>
 </td>
 </tr>
 </table>
-
 ---
 
 ⭐ From [Richa-OnData-AI](https://github.com/Richa-OnData-AI)
