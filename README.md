@@ -1,6 +1,17 @@
-<h1 align="center">Hi 👋, I'm Richa Rani</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Data+Analyst;Freelancer;Python+%7C+SQL+%7C+ML+%7C+DL;I+Didn’t+Skip+the+Hard+Parts+—+That’s+Why+My+Insights+Work&center=true&width=800&height=70&color=0A1F44&size=28&font=Fira+Code&pause=1000">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44,1E90FF&height=200&section=header&text=Hi%20👋,%20I'm%20Richa%20Rani&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+
+<b style="font-size:28px; color:#0A1F44;">
+Data Scientist | Data Analyst | Freelancer
+</b>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=I+Don’t+Just+Analyze+Data+—+I+Make+It+Useful&center=true&width=900&height=50&color=0A1F44&size=26&font=Fira+Code&pause=2000">
+
 </p>
 
 ---
@@ -17,15 +28,39 @@
 ---
 
 ## 🛠️ Skills
-
 <table align="center">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" height="40"/><br><b>Python</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="40"/><br><b>MySQL</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/><br><b>Jupyter</b></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40"/><br><b>Colab</b></td>
-<td align="center"><img src="https://img.icons8.com/color/48/power-bi.png" height="40"/><br><b>Power BI</b></td>
-<td align="center"><img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/><br><b>Excel</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" height="40"/><br>
+<b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/><br>
+<b>Jupyter Notebook</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40"/><br>
+<b>Colab</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/><br>
+<b>Power BI</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/><br>
+<b>Excel</b>
+</td>
 </tr>
 </table>
 ---
@@ -93,7 +128,7 @@
 
 ## 🌐 Connect With Me
 
-<table width="100%">
+<table width="300%">
 <tr>
 <td align="center">
 <a href="https://www.linkedin.com/in/richa-rani-201153334">
