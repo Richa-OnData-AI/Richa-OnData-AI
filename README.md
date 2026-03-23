@@ -65,7 +65,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=E8E9EB&height=60&section=header&text=%20Featured%20Projects&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 ### 🛒 E-commerce Data Analysis  
-🔗 **[View Project](https://github.com/Richa-OnData-AI/your-ecommerce-repo)**  
+🔗 **[View Project](https://github.com/Richa-OnData-AI/Customer_Behavior_Analysis)**  
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python" height="25"/> Python &nbsp;&nbsp;
@@ -80,7 +80,7 @@
 ---
 
 ### 🌍 Air Quality Analysis  
-🔗 **[View Project](https://github.com/Richa-OnData-AI/your-air-quality-repo)**  
+🔗 **[View Project](https://github.com/Richa-OnData-AI/Air-Purifier-SQL-project)**  
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" height="25"/> MySQL
