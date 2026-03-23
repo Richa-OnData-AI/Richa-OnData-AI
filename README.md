@@ -92,9 +92,7 @@
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E8E9EB&height=60&section=header&text=ML%20%26%20Data%20Science%20Blogs&fontSize=28&fontColor=000000&animation=fadeIn&align=center"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E8E9EB&height=60&section=header&text=%20ML%20And%20Data%20Science%20Blogs&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 <p align="center">
 🧠 I break down complex Machine Learning concepts into simple explanations  
