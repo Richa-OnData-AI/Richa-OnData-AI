@@ -23,7 +23,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF06B&height=60&section=header&text=%20Skills&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF06B&height=60&section=header&text=%20Tools&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 <table align="center">
 <tr>
 <td align="center">
