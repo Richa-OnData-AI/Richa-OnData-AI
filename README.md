@@ -69,22 +69,14 @@
 🔬 <b>Statistical Techniques:</b><br>
 Hypothesis Testing, A/B Testing, Probability Distribution, Bayes Theorem, Regression Analysis, Time Series Analysis  
 
-<br><br>
-
 📊 <b>Data Analysis:</b><br>
 NumPy, Pandas, SciPy, Data Wrangling, EDA, Data Cleaning, Feature Engineering, ETL (Extract Transform Load)  
-
-<br><br>
 
 🗄️ <b>SQL & Database:</b><br>
 MySQL (RDBMS), SQL Workbench, Query Optimization, Window Functions, Stored Procedures, JOINS (INNER, LEFT, RIGHT, FULL), CTEs  
 
-<br><br>
-
 📈 <b>Excel Analytics:</b><br>
 VLOOKUP, HLOOKUP, Pivot Tables, Power Query, Macros, Dashboards  
-
-<br><br>
 
 📉 <b>Data Visualization & BI Tools:</b><br>
 Power BI, Matplotlib, Seaborn, Power BI DAX  
