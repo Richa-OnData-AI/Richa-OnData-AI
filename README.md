@@ -13,7 +13,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7FF00&height=60&section=header&text=%20About%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF6AF&height=60&section=header&text=%20About%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 💡 Data Scientist & Analyst who loves solving real-world problems with data  
 
 - 🤖 Skilled in **Machine Learning & Deep Learning**  
@@ -23,7 +23,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7FF00&height=60&section=header&text=%20Skills&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF6AF&height=60&section=header&text=%20Skills&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 <table align="center">
 <tr>
 <td align="center">
@@ -62,7 +62,7 @@
 
 ---
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7FF00&height=60&section=header&text=%20Featured%20Projects&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF6AF&height=60&section=header&text=%20Featured%20Projects&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 ### 🛒 E-commerce Data Analysis  
 🔗 **[View Project](https://github.com/Richa-OnData-AI/Customer_Behavior_Analysis)**  
@@ -92,7 +92,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7FF00&height=60&section=header&text=%20ML%20and%20Data%20Science%20Blogs&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF6AF&height=60&section=header&text=%20ML%20and%20Data%20Science%20Blogs&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 <p align="center">
 🧠 I break down complex Machine Learning concepts into simple explanations  
@@ -104,7 +104,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7FF00&height=60&section=header&text=%20Freelance%20Services&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF6AF&height=60&section=header&text=%20Freelance%20Services&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 🚀 I help clients with:
 
@@ -119,7 +119,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7FF00&height=60&section=header&text=%20Contribution%20Snake&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF6AF&height=60&section=header&text=%20Contribution%20Snake&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 
 <p align="center">
@@ -128,7 +128,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F7FF00&height=60&section=header&text=%20Connect%20With%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF6AF&height=60&section=header&text=%20Connect%20With%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 
 <table width="100%">
