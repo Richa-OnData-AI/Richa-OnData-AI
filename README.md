@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7FF00,100:CFFF04&height=200&section=header&text=Hi%20👋,%20I'm%20Richa%20Rani&fontSize=40&fontColor=#FDFEFF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CCFF,100:69E2FF4&height=200&section=header&text=Hi%20👋,%20I'm%20Richa%20Rani&fontSize=40&fontColor=#FDFEFF&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF06B&height=60&section=header&text=%20About%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=60&section=header&text=%20About%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 💡 Data Scientist & Analyst who loves solving real-world problems with data  
 
 - 🤖 Skilled in **Machine Learning & Deep Learning**  
@@ -23,7 +23,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF06B&height=60&section=header&text=%20Tools&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=60&section=header&text=%20Tools&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 <table align="center">
 <tr>
 <td align="center">
@@ -62,7 +62,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF06B&height=60&section=header&text=%20Skills&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=60&section=header&text=%20Skills&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 <p>
 
@@ -85,7 +85,7 @@ Power BI, Matplotlib, Seaborn, Power BI DAX
 
 ---
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF06B&height=60&section=header&text=%20Featured%20Projects&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=60&section=header&text=%20Featured%20Projects&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 ### 🛒 E-commerce Data Analysis  
 🔗 **[View Project](https://github.com/Richa-OnData-AI/Customer_Behavior_Analysis)**  
@@ -115,7 +115,7 @@ Power BI, Matplotlib, Seaborn, Power BI DAX
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF06B&height=60&section=header&text=%20ML%20and%20Data%20Science%20Blogs&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=60&section=header&text=%20ML%20and%20Data%20Science%20Blogs&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 <p align="center">
 🧠 I break down complex Machine Learning concepts into simple explanations  
@@ -127,7 +127,7 @@ Power BI, Matplotlib, Seaborn, Power BI DAX
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF06B&height=60&section=header&text=%20Freelance%20Services&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=60&section=header&text=%20Freelance%20Services&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 🚀 I help clients with:
 
@@ -142,7 +142,7 @@ Power BI, Matplotlib, Seaborn, Power BI DAX
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF06B&height=60&section=header&text=%20Contribution%20Snake&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=60&section=header&text=%20Contribution%20Snake&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 
 <p align="center">
@@ -151,7 +151,7 @@ Power BI, Matplotlib, Seaborn, Power BI DAX
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FAF06B&height=60&section=header&text=%20Connect%20With%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D2F7FF&height=60&section=header&text=%20Connect%20With%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
 
 
 <table width="100%">
