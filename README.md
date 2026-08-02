@@ -25,23 +25,23 @@ Building scalable solutions that help businesses make smarter decisions through
 
 ### Programming
 
-- Python - SQL
+- Python • SQL
 
 ### Data Analysis
 
-- Pandas - NumPy - Microsoft Excel - Statistics
+- Pandas • NumPy • Microsoft Excel • Statistics
 
 ### Machine Learning
 
-- Scikit-learn - XGBoost - Regression - Classification - Deep Learning
+- Scikit-learn • XGBoost • Regression • Classification • Deep Learning
 
 ### Data Visualization
 
-- Power BI - Matplotlib - Seaborn
+- Power BI • Matplotlib • Seaborn
 
 ### Tools
 
-- Git - GitHub - Jupyter Notebook - VS Code
+- Git • GitHub • Jupyter Notebook • VS Code
 
 ---
 
