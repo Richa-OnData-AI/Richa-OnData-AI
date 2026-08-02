@@ -1,187 +1,141 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02CCFE,100:00F0FF&height=200&section=header&text=Hi%20👋,%20I'm%20Richa%20Rani&fontSize=40&fontColor=#FDFEFF&animation=fadeIn"/>
-</p>
-
-<h1 align="center">
-  Data Scientist | Data Analyst | Freelancer
-</h1>
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?lines=I+Don’t+Just+Analyze+Data+—+I+Make+It+Useful&center=true&width=900&height=50&color=0A1F44&size=26&font=Fira+Code&pause=2000">
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=02CCFE&height=60&section=header&text=%20About%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
-💡 Data Scientist & Analyst who loves solving real-world problems with data  
-
-- 🤖 Skilled in **Machine Learning & Deep Learning**  
-- 📊 Strong in **SQL, Python, Power BI & Excel**  
-- 📈 Focused on **business insights & decision-making**  
-- 💼 **Freelancer** – Available for analytics & ML projects  
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=02CCFE&height=60&section=header&text=%20Tools&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" height="40"/><br>
-<b>Python</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>
-<b>MySQL</b>
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/><br>
-<b>Jupyter Notebook</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40"/><br>
-<b>Colab</b>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/48/power-bi.png" height="40"/><br>
-<b>Power BI</b>
-</td>
-
-<td align="center">
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/><br>
-<b>Excel</b>
-</td>
-</tr>
-</table>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=02CCFE&height=60&section=header&text=%20Skills&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
-
-<p>
-
-🔬 <b>Statistical Techniques:</b><br>
-Hypothesis Testing, A/B Testing, Probability Distribution, Bayes Theorem, Regression Analysis, Time Series Analysis  
-
-📊 <b>Data Analysis:</b><br>
-NumPy, Pandas, SciPy, Data Wrangling, EDA, Data Cleaning, Feature Engineering, ETL (Extract Transform Load)  
-
-🗄️ <b>SQL & Database:</b><br>
-MySQL (RDBMS), SQL Workbench, Query Optimization, Window Functions, Stored Procedures, JOINS (INNER, LEFT, RIGHT, FULL), CTEs  
-
-📈 <b>Excel Analytics:</b><br>
-VLOOKUP, HLOOKUP, Pivot Tables, Power Query, Macros, Dashboards  
-
-📉 <b>Data Visualization & BI Tools:</b><br>
-Power BI, Matplotlib, Seaborn, Power BI DAX  
-
-</p>
-
----
- 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=02CCFE&height=60&section=header&text=%20Featured%20Projects&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
-
-### 🛒 E-commerce Data Analysis  
-🔗 **[View Project](https://github.com/Richa-OnData-AI/Customer_Behavior_Analysis)**  
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" height="25"/> Python &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="25"/> SQL &nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/power-bi.png" height="25"/> Power BI
-</p>
-
-✨ Customer segmentation  
-✨ Sales trend analysis  
-✨ Business insights & KPI tracking  
-
----
-
-### 🌍 Air Quality Analysis  
-🔗 **[View Project](https://github.com/Richa-OnData-AI/Air-Purifier-SQL-project)**  
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" height="25"/> MySQL
-</p>
-
-✨ Real-world environmental dataset  
-✨ Data cleaning & transformation  
-✨ Extracted actionable insights  
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=02CCFE&height=60&section=header&text=%20ML%20and%20Data%20Science%20Blogs&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+<h1 align="center">Richa Rani</h1>
 
 <p align="center">
-🧠 I break down complex Machine Learning concepts into simple explanations  
+<b>Data Analytics</b> • <b>Data Scientist</b>
 </p>
 
 <p align="center">
-👉 <a href="https://medium.com/@richa.insights"><b>Read on Medium</b></a>
+Building scalable solutions that help businesses make smarter decisions through
+<b>Data Analytics</b>, <b>Machine Learning</b>, and <b>Business Intelligence</b>.
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=02CCFE&height=60&section=header&text=%20Freelance%20Services&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+## Professional Summary
 
-🚀 I help clients with:
-
-✔ Data Analysis & Dashboards  
-✔ Power BI & Excel Reporting  
-✔ Machine Learning Models  
-✔ SQL & Data Cleaning  
-
-📩 **Available for freelance work & collaborations**
-
-👉 **[Connect on LinkedIn](https://www.linkedin.com/in/richa-rani-201153334)**  
+- Building data-driven solutions through Data Analytics, Machine Learning, and Business Intelligence.
+- Worked on projects involving statistical analysis, demand forecasting, predictive analytics, business intelligence, fraud detection, and election analytics.
+- Built dashboards and analytical solutions inspired by the operational needs of local businesses and educational institutions to deliver actionable insights.
+- Data becomes valuable when it helps people make informed decisions.
+- Every dataset tells a story that can be translated into practical solutions and measurable impact.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=02CCFE&height=60&section=header&text=%20Contribution%20Snake&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+## Technical Skills
 
+### Programming
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Richa-OnData-AI/Richa-OnData-AI/output/snake.svg" alt="snake animation" />
-</p>
+- Python - SQL
 
----
+### Data Analysis
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=02CCFE&height=60&section=header&text=%20Connect%20With%20Me&fontSize=25&fontColor=000000&animation=fadeIn&align=left"/>
+- Pandas - NumPy - Microsoft Excel - Statistics
 
+### Machine Learning
 
-<table width="100%">
-<tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/richa-rani-201153334">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</td>
+- Scikit-learn - XGBoost - Regression - Classification - Deep Learning
 
-<td align="center">
-<a href="https://medium.com/@richa.insights">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-</td>
+### Data Visualization
 
-<td align="center">
-<a href="https://stackoverflow.com/users/28990535/richa-data-ai-explorer">
-<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-</a>
-</td>
+- Power BI - Matplotlib - Seaborn
 
-<td align="center">
-<a href="https://www.quora.com/profile/Richa-Rani-216">
-<img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
-</a>
-</td>
-</tr>
-</table>
+### Tools
+
+- Git - GitHub - Jupyter Notebook - VS Code
 
 ---
 
-⭐ From [Richa-OnData-AI](https://github.com/Richa-OnData-AI)
+## Featured Projects
+
+### Election Intelligence Analytics *(Ongoing)*
+
+A data storytelling project developed for **AtliQ Media** to analyze the Tamil Nadu Assembly Elections using  Python, SQL and Power BI. The objective is to transform complex election data into meaningful insights that help editorial teams explain how voting patterns, turnout, regional dynamics, and electoral outcomes changed between the 2021 and 2026 Assembly Elections.
+
+**Key Analysis**
+
+- Compared the 2021 and 2026 Assembly Elections to analyze changes in voter turnout, regional seat distribution, and winning margins.
+- Identified constituency-level seat flips, regional strongholds, and shifts in voting patterns across Tamil Nadu.
+- Examined the electoral impact of emerging political parties, including TVK, on constituency-level competition and regional performance.
+- Performed SQL- and Python-based analysis to uncover trends behind election outcomes and support data-driven storytelling.
+- Built interactive Power BI dashboards that enable journalists and editorial teams to communicate election insights through data rather than opinion.
+
+**Business Value**
+
+Helped transform large-scale election data into clear, evidence-based stories, enabling audiences to better understand voter behaviour, regional trends, and the factors influencing election results.
+
+**Technologies**
+
+Python • SQL • Power BI
+
+---
+
+### Inventory Demand Forecasting & Stock-out Prediction
+
+Forecasted future product demand and identified stock-out risks using Machine Learning to support inventory planning and replenishment decisions.
+
+**Project Highlights**
+
+- Achieved an **R² Score of 82.7%** using XGBoost for demand forecasting.
+- Compared multiple regression and classification models to identify the best-performing approach.
+- Identified products with high stock-out risk through inventory trend and replenishment analysis.
+- Visualized model performance and feature importance to improve interpretability and business understanding.
+
+**Key Business Insights**
+
+Supported data-driven inventory planning by improving demand visibility, reducing stock-out risks, and enabling proactive replenishment decisions.
+
+**Technologies**
+
+Python • Pandas • Scikit-learn • XGBoost • Matplotlib
+
+---
+
+### Pharmacy Inventory & Business Intelligence Dashboard
+
+Built an interactive Power BI dashboard to help pharmacy businesses monitor inventory, reduce stock-related losses, and support faster operational decision-making. The dashboard transforms sales and inventory data into actionable insights, enabling pharmacists to identify stock shortages, monitor medicine expiry, and prioritize timely replenishment.
+
+**Key Analysis**
+
+- Monitored inventory health by tracking low-stock, out-of-stock, and expiring medicines.
+- Identified medicines requiring immediate replenishment through reorder-level analysis.
+- Analyzed sales performance, customer purchasing behaviour, payment trends, and executive KPIs.
+- Assessed inventory risk by measuring the potential financial impact of expired and unavailable medicines.
+- Delivered actionable recommendations through interactive Power BI dashboards and KPI-driven insights.
+
+**Key Business Insights**
+
+- Identified **29 out-of-stock** medicines and **1,000 low-stock** medicines requiring immediate replenishment.
+- Detected **5,000 expired medicines**, including **130 expiring within 7 days** and **344 within 30 days**, supporting proactive inventory planning.
+- Highlighted an estimated **Inventory Loss of ₹308 Million** and **Revenue at Risk of ₹414 Million**, demonstrating the business impact of inventory inefficiencies.
+- Recommended urgent replenishment of **Amoxicillin**, **Azithromycin**, and **Vitamin C** based on inventory levels and customer demand.
+- Identified **Sunday** as the highest revenue-generating day, with **33.65%** of transactions completed through **UPI**, providing insights into customer purchasing behaviour.
+
+**Technologies**
+
+Power BI • Microsoft Excel • DAX
+
+---
+
+## Focus Areas
+
+Applying Data Analytics, Machine Learning, Deep Learning and Artificial Intelligence to develop practical solutions for business problems.
+
+- Predictive Analytics
+- Business Intelligence
+- Decision Intelligence
+- Data Storytelling
+- AI Applications
+
+---
+
+## Connect
+
+| Platform | Link |
+|----------|------|
+| GitHub | [Richa-OnData-AI](https://github.com/Richa-OnData-AI) |
+| LinkedIn | [Richa Rani](https://www.linkedin.com/in/richa-rani-201153334) |
+| Email | [richa.insight@gmail.com](mailto:richa.insight@gmail.com) |
+| Medium | [Medium](https://medium.com/@richa.insights) |
+| Stack Overflow | [Stack Overflow](https://stackoverflow.com/users/28990535/richa-data-ai-explorer) |
+| Reddit | [Reddit](https://https://www.reddit.com/user/Richa_OnData_AI/) |
+| Quora | [Quora](https://https://www.quora.com/profile/Richa-Rani-216) |
